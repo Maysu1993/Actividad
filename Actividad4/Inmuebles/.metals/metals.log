@@ -1,0 +1,51 @@
+2023.05.28 11:46:53 INFO  Started: Metals version 0.11.12 in workspace '/Users/maylen/JavaProjects/POO/Actividad4/Inmuebles' for client Visual Studio Code 1.77.3.
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/.metals/metals (H2 2.1)
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.008s)
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+May 28, 2023 11:46:53 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.025s)
+2023.05.28 11:46:53 INFO  time: initialize in 0.3s
+2023.05.28 11:46:54 WARN  Build server is not auto-connectable.
+2023.05.28 11:46:54 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Prueba.java
+2023.05.28 11:47:08 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Prueba.java
+2023.05.28 11:47:16 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Oficina.java
+2023.05.28 11:47:18 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/LocalComercial.java
+2023.05.28 11:47:19 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Local.java
+2023.05.28 11:47:29 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Apartamento.java
+2023.05.28 11:47:32 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/ApartamentoFamiliar.java
+2023.05.28 11:47:36 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Casa.java
+2023.05.28 11:47:39 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/CasaConjuntoCerrado.java
+2023.05.28 11:48:15 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Apartaestudio.java
+2023.05.28 11:49:28 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/ApartamentoFamiliar.java
+2023.05.28 11:49:38 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Casa.java
+2023.05.28 11:51:14 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/CasaIndependiente.java
+2023.05.28 11:51:16 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/CasaRural.java
+2023.05.28 11:51:19 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/CasaUrbana.java
+2023.05.28 11:51:24 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Inmueble.java
+2023.05.28 11:51:27 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/InmuebleVivienda.java
+2023.05.28 11:54:01 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Apartaestudio.java
+2023.05.28 11:54:26 WARN  no build target for: /Users/maylen/JavaProjects/POO/Actividad4/Inmuebles/src/main/java/my/company/inmuebles/Apartamento.java
+2023.05.28 12:15:39 INFO  Shutting down server
+2023.05.28 12:15:39 INFO  shutting down Metals
+2023.05.28 12:15:39 INFO  Exiting server
